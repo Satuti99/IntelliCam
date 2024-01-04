@@ -28,7 +28,7 @@ by  Matthias Gemelli, Oct 2017
 Setting up a Raspberry-PI-powered security camera is quite easy - thanks to software packages like [Motion] <https://motion-project.github.io/> or [MotionEyeOS] <https://github.com/ccrisan/motioneyeos>.
 
 **The challenge?**  After setting up the Raspi camera I recorded 300..400 images. **Per Day.**   
-Way too many pictures: my car turning into the driveway, neighbors cats, etc...  But I only wanted to see who is entering my property! I finally switched off the camera. 
+Way too many pictures: my car turning into the driveway, neighbors cats, etc.. But I only wanted to see who is entering my property! I finally switched off the camera. 
 
 Until I stumbled upon...
 
